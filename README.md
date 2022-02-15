@@ -2,7 +2,11 @@
 Appendix with programs and data used in the project
 ## ard_control_base
 
-Arduino code to listen for signals and move stepper motors acoordingly
+Example of basic arsuino stepper motor script
+
+## ard_control
+
+Advanced arduino controlscript that recieves signals from python and moves the right motor in the right direction
 
 ## Arduino_control
 
