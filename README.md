@@ -16,6 +16,10 @@ Python script for sending singals to VICI valves and aruino boards
 
 Python script that is most usable for testing what the code does for yourself, commented clearly
 
+## Usable_program_real
+
+Needed for the "For users" document to work
+
 ##new curve fit strat
 
 Base script for fitting systems of ODE's to data
